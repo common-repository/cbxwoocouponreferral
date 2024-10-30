@@ -1,0 +1,1083 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Woo Coupon Referral Affiliate(WCRA) v3.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-09-20 04:28:22+0000\n"
+"Last-Translator: manchumahara <sabuj@codeboxr.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: cbxwoocouponreferral.php:86
+#@ default
+msgid "January"
+msgstr ""
+
+#: cbxwoocouponreferral.php:87
+#@ default
+msgid "February"
+msgstr ""
+
+#: cbxwoocouponreferral.php:88
+#@ default
+msgid "March"
+msgstr ""
+
+#: cbxwoocouponreferral.php:89
+#@ default
+msgid "April"
+msgstr ""
+
+#: cbxwoocouponreferral.php:90
+#@ default
+msgid "May"
+msgstr ""
+
+#: cbxwoocouponreferral.php:91
+#@ default
+msgid "June"
+msgstr ""
+
+#: cbxwoocouponreferral.php:92
+#@ default
+msgid "July"
+msgstr ""
+
+#: cbxwoocouponreferral.php:93
+#@ default
+msgid "August"
+msgstr ""
+
+#: cbxwoocouponreferral.php:94
+#@ default
+msgid "September"
+msgstr ""
+
+#: cbxwoocouponreferral.php:95
+#@ default
+msgid "October"
+msgstr ""
+
+#: cbxwoocouponreferral.php:96
+#@ default
+msgid "November"
+msgstr ""
+
+#: cbxwoocouponreferral.php:97
+#@ default
+msgid "December"
+msgstr ""
+
+#: cbxwoocouponreferral.php:301
+#: cbxwoocouponreferral.php:1080
+#: cbxwoocouponreferral.php:2295
+#: widgets/wcratop/views/admin.php:12
+#@ cbxwoocouponreferral
+msgid "Month"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1081
+#@ cbxwoocouponreferral
+msgid "Order Amount"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1082
+#: cbxwoocouponreferral.php:2298
+#@ cbxwoocouponreferral
+msgid "Order Number"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1084
+#: cbxwoocouponreferral.php:1117
+#: cbxwoocouponreferral.php:2300
+#@ cbxwoocouponreferral
+msgid "Orders by Reference"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2302
+#@ cbxwoocouponreferral
+msgid "You Have No Order"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2388
+#@ cbxwoocouponreferral
+msgid "Select a coupon"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2381
+#, php-format
+#@ cbxwoocouponreferral
+msgid "<p>Hi %s, </p>"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2125
+#: cbxwoocouponreferral.php:2213
+#: cbxwoocouponreferral.php:2627
+#@ cbxwoocouponreferral
+msgid "Prev"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2129
+#: cbxwoocouponreferral.php:2219
+#: cbxwoocouponreferral.php:2633
+#@ cbxwoocouponreferral
+msgid "Next"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2382
+#@ cbxwoocouponreferral
+msgid "<p>Sorry you are not assigned to any coupon yet.</p>"
+msgstr ""
+
+#: cbxwoocouponreferral.php:744
+#@ cbxwoocouponreferral
+msgid "CBX Coupon Referral Stats"
+msgstr ""
+
+#: cbxwoocouponreferral.php:744
+#@ cbxwoocouponreferral
+msgid "CBX WCRA"
+msgstr ""
+
+#: cbxwoocouponreferral.php:747
+#@ cbxwoocouponreferral
+msgid "Coupon Referral Settings"
+msgstr ""
+
+#: cbxwoocouponreferral.php:747
+#: cbxwoocouponreferral.php:1226
+#@ cbxwoocouponreferral
+msgid "Settings"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1268
+#@ cbxwoocouponreferral
+msgid "Referral User Role"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1269
+#@ cbxwoocouponreferral
+msgid "Select role for affiliate users"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1276
+#@ cbxwoocouponreferral
+msgid "Bind One User With One Coupon"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1277
+#@ cbxwoocouponreferral
+msgid "If yes same user can not be assigned to multiple coupon"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1283
+#@ cbxwoocouponreferral
+msgid "Frontend affilitor page"
+msgstr ""
+
+#: cbxwoocouponreferral.php:562
+#: cbxwoocouponreferral.php:627
+#: cbxwoocouponreferral.php:2555
+#: cbxwoocouponreferral.php:2776
+#: includes/class-wcra-affiliators-list.php:227
+#@ cbxwoocouponreferral
+msgid "Coupon"
+msgstr ""
+
+#: cbxwoocouponreferral.php:563
+#: cbxwoocouponreferral.php:628
+#: cbxwoocouponreferral.php:2556
+#: cbxwoocouponreferral.php:2777
+#@ cbxwoocouponreferral
+msgid "Refer User"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1086
+#@ cbxwoocouponreferral
+msgid "All Order Amount"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1088
+#@ cbxwoocouponreferral
+msgid "Refer Order number"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2335
+#: cbxwoocouponreferral.php:2343
+#: includes/class-wcra-affiliators-list.php:137
+#: includes/class-wcra-affiliators-list.php:145
+#: includes/class.wcracoupontab.php:108
+#@ cbxwoocouponreferral
+msgid "Percentage"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1083
+#@ cbxwoocouponreferral
+msgid "Earning"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1085
+#: cbxwoocouponreferral.php:1118
+#@ cbxwoocouponreferral
+msgid "All Orders"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1150
+#@ cbxwoocouponreferral
+msgid "Setting"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:80
+#@ cbxwoocouponreferral
+msgid "Search User Name"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:80
+#@ cbxwoocouponreferral
+msgctxt "placeholder"
+msgid "User Name"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:86
+#@ cbxwoocouponreferral
+msgid "Remove"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:92
+#@ cbxwoocouponreferral
+msgid "User Target Milestone Per Month"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:92
+#@ cbxwoocouponreferral
+msgctxt "placeholder"
+msgid "User Milestone"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:92
+#@ cbxwoocouponreferral
+msgid "What total order amount is target for this user with this coupon."
+msgstr ""
+
+#: includes/class.wcracoupontab.php:99
+#@ cbxwoocouponreferral
+msgid "How much money user will get from his referral amount"
+msgstr ""
+
+#: includes/class.wcrahelper.php:146
+#@ cbxwoocouponreferral
+msgctxt "Page slug"
+msgid "wcramydashboard"
+msgstr ""
+
+#: includes/class.wcrahelper.php:147
+#@ cbxwoocouponreferral
+msgctxt "Page title"
+msgid "User Coupon Referral Dashboard"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:280
+#@ cbxwoocouponreferral
+msgid "Rererral User"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:281
+#@ cbxwoocouponreferral
+msgid "Milestone Per Month"
+msgstr ""
+
+#: includes/class.cbxwoocouponreferralsetting.php:422
+#@ cbxwoocouponreferral
+msgid "Choose File"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:254
+#, php-format
+#@ cbxwoocouponreferral
+msgid "CBX WCRA: User %s (ID: %d) has a coupon association already"
+msgstr ""
+
+#: cbxwoocouponreferral.php:629
+#: includes/class.wcracoupontab.php:99
+#@ cbxwoocouponreferral
+msgid "User Commission"
+msgstr ""
+
+#: cbxwoocouponreferral.php:716
+#: cbxwoocouponreferral.php:2579
+#: cbxwoocouponreferral.php:2598
+#: cbxwoocouponreferral.php:2809
+#: includes/class.wcracoupontab.php:331
+#: includes/class.wcracoupontab.php:335
+#: includes/class.wcracoupontab.php:339
+#@ cbxwoocouponreferral
+msgid "N/A"
+msgstr ""
+
+#: cbxwoocouponreferral.php:941
+#: cbxwoocouponreferral.php:952
+#, php-format
+#@ cbxwoocouponreferral
+msgid "<strong>CBX Woo Coupon Referral Affiliate(WCRA)</strong> requires %sWoocommerce%s to be installed & activated!"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2525
+#@ cbxwoocouponreferral
+msgid "CBX Woo Coupon Affiliation For Sales Representative"
+msgstr ""
+
+#: cbxwoocouponreferral.php:102
+#@ default
+msgctxt "January abbreviation"
+msgid "Jan"
+msgstr ""
+
+#: cbxwoocouponreferral.php:103
+#@ default
+msgctxt "February abbreviation"
+msgid "Feb"
+msgstr ""
+
+#: cbxwoocouponreferral.php:104
+#@ default
+msgctxt "March abbreviation"
+msgid "Mar"
+msgstr ""
+
+#: cbxwoocouponreferral.php:105
+#@ default
+msgctxt "April abbreviation"
+msgid "Apr"
+msgstr ""
+
+#: cbxwoocouponreferral.php:106
+#@ default
+msgctxt "May abbreviation"
+msgid "May"
+msgstr ""
+
+#: cbxwoocouponreferral.php:107
+#@ default
+msgctxt "June abbreviation"
+msgid "Jun"
+msgstr ""
+
+#: cbxwoocouponreferral.php:108
+#@ default
+msgctxt "July abbreviation"
+msgid "Jul"
+msgstr ""
+
+#: cbxwoocouponreferral.php:109
+#@ default
+msgctxt "August abbreviation"
+msgid "Aug"
+msgstr ""
+
+#: cbxwoocouponreferral.php:110
+#@ default
+msgctxt "September abbreviation"
+msgid "Sep"
+msgstr ""
+
+#: cbxwoocouponreferral.php:111
+#@ default
+msgctxt "October abbreviation"
+msgid "Oct"
+msgstr ""
+
+#: cbxwoocouponreferral.php:112
+#@ default
+msgctxt "November abbreviation"
+msgid "Nov"
+msgstr ""
+
+#: cbxwoocouponreferral.php:113
+#@ default
+msgctxt "December abbreviation"
+msgid "Dec"
+msgstr ""
+
+#: cbxwoocouponreferral.php:753
+#: cbxwoocouponreferral.php:880
+#@ cbxwoocouponreferral
+msgid "Affiliators"
+msgstr ""
+
+#: cbxwoocouponreferral.php:759
+#: cbxwoocouponreferral.php:911
+#@ cbxwoocouponreferral
+msgid "Per Month Stat"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2305
+#@ cbxwoocouponreferral
+msgid "Mail Send Successfully!"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2294
+#@ cbxwoocouponreferral
+msgid "Affiliation Overview : "
+msgstr ""
+
+#: cbxwoocouponreferral.php:2303
+#@ cbxwoocouponreferral
+msgid "Coupon Name :"
+msgstr ""
+
+#: cbxwoocouponreferral.php:317
+#: widgets/wcratop/views/admin.php:25
+#@ cbxwoocouponreferral
+msgid "Total Earning"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2363
+#: cbxwoocouponreferral.php:2601
+#: cbxwoocouponreferral.php:2830
+#: includes/class-wcra-affiliators-list.php:179
+#@ cbxwoocouponreferral
+msgid "Active"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2363
+#: cbxwoocouponreferral.php:2601
+#: cbxwoocouponreferral.php:2830
+#: includes/class-wcra-affiliators-list.php:181
+#@ cbxwoocouponreferral
+msgid "Inactive"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2174
+#@ cbxwoocouponreferral
+msgid "Affiliation Stat : "
+msgstr ""
+
+#: cbxwoocouponreferral.php:2228
+#@ cbxwoocouponreferral
+msgid " Affiliation Overview : "
+msgstr ""
+
+#: cbxwoocouponreferral.php:2112
+#@ cbxwoocouponreferral
+msgid "Affiliation Stat : Year"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2535
+#@ cbxwoocouponreferral
+msgid " Referred Users (Current Month Stats) "
+msgstr ""
+
+#: cbxwoocouponreferral.php:2547
+#: cbxwoocouponreferral.php:2759
+#@ cbxwoocouponreferral
+msgid "Prev Month"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2560
+#: cbxwoocouponreferral.php:2781
+#@ cbxwoocouponreferral
+msgid "Current Status"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2758
+#, php-format
+#@ cbxwoocouponreferral
+msgid "Referred Users ( %s %d Stats ) "
+msgstr ""
+
+#: cbxwoocouponreferral.php:2763
+#: cbxwoocouponreferral.php:2766
+#@ cbxwoocouponreferral
+msgid "Next Month"
+msgstr ""
+
+#: includes/class-wcra-affiliators-list.php:230
+#@ cbxwoocouponreferral
+msgid "ID"
+msgstr ""
+
+#: includes/class-wcra-affiliators-list.php:226
+#@ cbxwoocouponreferral
+msgid "User"
+msgstr ""
+
+#: includes/class-wcra-affiliators-list.php:228
+#@ cbxwoocouponreferral
+msgid "Status"
+msgstr ""
+
+#: includes/class-wcra-affiliators-list.php:229
+#@ cbxwoocouponreferral
+msgid "Date"
+msgstr ""
+
+#: includes/class-wcra-affiliators-list.php:299
+#@ cbxwoocouponreferral
+msgid "Items deleted (or they would be if we had items to delete)!"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1985
+#@ cbxwoocouponreferral
+msgid "Affiliation Stats"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2261
+#@ cbxwoocouponreferral
+msgid "Login to view"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2385
+#, php-format
+#@ cbxwoocouponreferral
+msgid "<h3>Hi %s, </h3>"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1262
+#, php-format
+#@ cbxwoocouponreferral
+msgid "User's private Coupon Referral Dashboard. <a href=\"%s\" target=\"_blank\">Visit</a>"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:80
+#@ cbxwoocouponreferral
+msgid "User from selected role who will refer this coupon to others. User role can be set from the setting menu."
+msgstr ""
+
+#: cbxwoocouponreferral.php:1079
+#@ cbxwoocouponreferral
+msgid "Order Overview (including shipping & other costs) : Year"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2138
+#@ cbxwoocouponreferral
+msgid " Order Overview (including shipping & other costs) : Year"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2618
+#@ cbxwoocouponreferral
+msgid "Order Analysis (including shipping & other costs) : Year"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2475
+#@ cbxwoocouponreferral
+msgid "CBX WCRA : Affiliators"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2704
+#@ cbxwoocouponreferral
+msgid "CBX WCRA : Per Month Stats"
+msgstr ""
+
+#: includes/class.wcrahelper.php:23
+#@ cbxwoocouponreferral
+msgid "CBX WCRA : Setting"
+msgstr ""
+
+#: includes/sidebar.php:32
+#@ cbxwoocouponreferral
+msgid "Help & Supports"
+msgstr ""
+
+#: includes/sidebar.php:43
+#@ cbxwoocouponreferral
+msgid "Codeboxr Updates"
+msgstr ""
+
+#: includes/sidebar.php:76
+#@ cbxwoocouponreferral
+msgid "Codeboxr on facebook"
+msgstr ""
+
+#: cbxwoocouponreferral.php:515
+#@ cbxwoocouponreferral
+msgid "Affiliator Contact Info"
+msgstr ""
+
+#: cbxwoocouponreferral.php:523
+#@ cbxwoocouponreferral
+msgid "CBX WCRA Referral Info"
+msgstr ""
+
+#: cbxwoocouponreferral.php:564
+#@ cbxwoocouponreferral
+msgid "Email"
+msgstr ""
+
+#: cbxwoocouponreferral.php:565
+#@ cbxwoocouponreferral
+msgid "Phone"
+msgstr ""
+
+#: cbxwoocouponreferral.php:583
+#@ cbxwoocouponreferral
+msgid "No Referral Data Available"
+msgstr ""
+
+#: cbxwoocouponreferral.php:653
+#@ cbxwoocouponreferral
+msgid "No Referral data available"
+msgstr ""
+
+#: cbxwoocouponreferral.php:668
+#@ cbxwoocouponreferral
+msgid "Referred By"
+msgstr ""
+
+#: cbxwoocouponreferral.php:750
+#@ cbxwoocouponreferral
+msgid "WCRA ADD-ons:"
+msgstr ""
+
+#: cbxwoocouponreferral.php:750
+#@ cbxwoocouponreferral
+msgid "Add-ons"
+msgstr ""
+
+#: cbxwoocouponreferral.php:777
+#@ cbxwoocouponreferral
+msgid "Active and Installed"
+msgstr ""
+
+#: cbxwoocouponreferral.php:785
+#@ cbxwoocouponreferral
+msgid "Not Installed or Active"
+msgstr ""
+
+#: cbxwoocouponreferral.php:793
+#@ cbxwoocouponreferral
+msgid "Installed but Inactive"
+msgstr ""
+
+#: cbxwoocouponreferral.php:810
+#@ cbxwoocouponreferral
+msgid "WCRA: Add-ons"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1291
+#@ cbxwoocouponreferral
+msgid "Show Affiliator Info"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1292
+#@ cbxwoocouponreferral
+msgid "If yes displays a section in view order page about the Affiliation"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1986
+#@ cbxwoocouponreferral
+msgid "Contact Information"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2419
+#, php-format
+#@ cbxwoocouponreferral
+msgid "<p><strong>Name  : </strong> %s</p>"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2420
+#, php-format
+#@ cbxwoocouponreferral
+msgid "<p><strong>Email : </strong> %s</p>"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2426
+#@ cbxwoocouponreferral
+msgid "Telephone/Phone : "
+msgstr ""
+
+#: cbxwoocouponreferral.php:2427
+#@ cbxwoocouponreferral
+msgid "Enter Contact Telephone/Phone."
+msgstr ""
+
+#: cbxwoocouponreferral.php:226
+#: widgets/wcratop/wcratop-widget.php:39
+#@ cbxwoocouponreferral
+msgid "WCRA Top Affiliator"
+msgstr ""
+
+#: cbxwoocouponreferral.php:230
+#@ cbxwoocouponreferral
+msgid "WCRA Monthly Graph"
+msgstr ""
+
+#: cbxwoocouponreferral.php:298
+#@ cbxwoocouponreferral
+msgid "Type:"
+msgstr ""
+
+#: cbxwoocouponreferral.php:303
+#: widgets/wcratop/views/admin.php:13
+#@ cbxwoocouponreferral
+msgid "Year"
+msgstr ""
+
+#: cbxwoocouponreferral.php:308
+#@ cbxwoocouponreferral
+msgid "Count:"
+msgstr ""
+
+#: cbxwoocouponreferral.php:407
+#@ cbxwoocouponreferral
+msgid "WCRA Profile Information"
+msgstr ""
+
+#: cbxwoocouponreferral.php:412
+#@ cbxwoocouponreferral
+msgid "Telephone/Phone"
+msgstr ""
+
+#: cbxwoocouponreferral.php:417
+#@ cbxwoocouponreferral
+msgid "Please enter Telephone/Phone."
+msgstr ""
+
+#: cbxwoocouponreferral.php:421
+#@ cbxwoocouponreferral
+msgid "Paypal Email"
+msgstr ""
+
+#: cbxwoocouponreferral.php:426
+#@ cbxwoocouponreferral
+msgid "Please enter Paypal Email."
+msgstr ""
+
+#: cbxwoocouponreferral.php:430
+#@ cbxwoocouponreferral
+msgid "Bank Account Name."
+msgstr ""
+
+#: cbxwoocouponreferral.php:435
+#@ cbxwoocouponreferral
+msgid "Please enter Bank Account Name."
+msgstr ""
+
+#: cbxwoocouponreferral.php:439
+#@ cbxwoocouponreferral
+msgid "Bank Account No."
+msgstr ""
+
+#: cbxwoocouponreferral.php:444
+#@ cbxwoocouponreferral
+msgid "Please enter Bank Account No."
+msgstr ""
+
+#: cbxwoocouponreferral.php:448
+#@ cbxwoocouponreferral
+msgid "Bank Branch Name."
+msgstr ""
+
+#: cbxwoocouponreferral.php:453
+#@ cbxwoocouponreferral
+msgid "Please enter Bank Branch Name."
+msgstr ""
+
+#: cbxwoocouponreferral.php:457
+#@ cbxwoocouponreferral
+msgid "Sort Code"
+msgstr ""
+
+#: cbxwoocouponreferral.php:462
+#@ cbxwoocouponreferral
+msgid "Please enter Sort Code."
+msgstr ""
+
+#: cbxwoocouponreferral.php:466
+#@ cbxwoocouponreferral
+msgid "IBAN"
+msgstr ""
+
+#: cbxwoocouponreferral.php:471
+#@ cbxwoocouponreferral
+msgid "Please enter IBAN."
+msgstr ""
+
+#: cbxwoocouponreferral.php:475
+#@ cbxwoocouponreferral
+msgid "BIC/SWIFT"
+msgstr ""
+
+#: cbxwoocouponreferral.php:480
+#@ cbxwoocouponreferral
+msgid "Please enter BIC/SWIFT."
+msgstr ""
+
+#: cbxwoocouponreferral.php:1230
+#@ cbxwoocouponreferral
+msgid "Dashboard Widget Settings"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1300
+#@ cbxwoocouponreferral
+msgid "Top Affiliator Visibility"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1301
+#: cbxwoocouponreferral.php:1317
+#@ cbxwoocouponreferral
+msgid "Select role of users"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1304
+#: cbxwoocouponreferral.php:1320
+#@ cbxwoocouponreferral
+msgid "Select Roles"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1309
+#@ cbxwoocouponreferral
+msgid "Show Top Affiliator"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1310
+#@ cbxwoocouponreferral
+msgid "If yes Top Affiliator Dashboard widget is shown"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1316
+#@ cbxwoocouponreferral
+msgid "Monthly Dashboard Visibility"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1325
+#@ cbxwoocouponreferral
+msgid "Show Monthly Stat"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1326
+#@ cbxwoocouponreferral
+msgid "If yes the Monthly Dashboard Widget is shown"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2076
+#@ cbxwoocouponreferral
+msgid "Name"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2077
+#@ cbxwoocouponreferral
+msgid "No Ref."
+msgstr ""
+
+#: cbxwoocouponreferral.php:2078
+#@ cbxwoocouponreferral
+msgid "Total Earn"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2296
+#@ cbxwoocouponreferral
+msgid "Day"
+msgstr ""
+
+#: widgets/wcratop/views/admin.php:4
+#@ cbxwoocouponreferral
+msgid "Title"
+msgstr ""
+
+#: widgets/wcratop/views/admin.php:9
+#@ cbxwoocouponreferral
+msgid "Type"
+msgstr ""
+
+#: widgets/wcratop/views/admin.php:11
+#@ cbxwoocouponreferral
+msgid "Please Select"
+msgstr ""
+
+#: widgets/wcratop/views/admin.php:17
+#@ cbxwoocouponreferral
+msgid "Count"
+msgstr ""
+
+#: widgets/wcratop/views/admin.php:23
+#@ cbxwoocouponreferral
+msgid "Order By"
+msgstr ""
+
+#: cbxwoocouponreferral.php:329
+#: widgets/wcratop/views/admin.php:34
+#@ cbxwoocouponreferral
+msgid "DESC"
+msgstr ""
+
+#: cbxwoocouponreferral.php:331
+#: widgets/wcratop/views/admin.php:35
+#@ cbxwoocouponreferral
+msgid "ASC"
+msgstr ""
+
+#: widgets/wcratop/wcratop-widget.php:42
+#@ cbxwoocouponreferral
+msgid "Displays Top Affiliator"
+msgstr ""
+
+#: cbxwoocouponreferral.php:314
+#@ cbxwoocouponreferral
+msgid "Order By:"
+msgstr ""
+
+#: cbxwoocouponreferral.php:319
+#: widgets/wcratop/views/admin.php:26
+#@ cbxwoocouponreferral
+msgid "Total Amount"
+msgstr ""
+
+#: cbxwoocouponreferral.php:321
+#: widgets/wcratop/views/admin.php:27
+#@ cbxwoocouponreferral
+msgid "Total Referred"
+msgstr ""
+
+#: cbxwoocouponreferral.php:326
+#@ cbxwoocouponreferral
+msgid "Order:"
+msgstr ""
+
+#: cbxwoocouponreferral.php:630
+#: cbxwoocouponreferral.php:1091
+#, php-format
+#@ cbxwoocouponreferral
+msgid "User Earning(%s)"
+msgstr ""
+
+#: cbxwoocouponreferral.php:646
+#: cbxwoocouponreferral.php:2336
+#: includes/class-wcra-affiliators-list.php:138
+#: includes/class.wcracoupontab.php:109
+#: includes/class.wcracoupontab.php:308
+#@ cbxwoocouponreferral
+msgid "Fixed"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1087
+#, php-format
+#@ cbxwoocouponreferral
+msgid "Refer Order Amount(%s)"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1093
+#@ cbxwoocouponreferral
+msgid "No matching orders found"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1094
+#@ cbxwoocouponreferral
+msgid "Mail Sent Successfully!"
+msgstr ""
+
+#: cbxwoocouponreferral.php:1262
+#, php-format
+#@ cbxwoocouponreferral
+msgid "<a href=\"%s\" target=\"_blank\">Edit</a>"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2079
+#@ cbxwoocouponreferral
+msgid "Total Sales"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2297
+#, php-format
+#@ cbxwoocouponreferral
+msgid "Order Amount (%s)"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2299
+#, php-format
+#@ cbxwoocouponreferral
+msgid "Earn (%s)"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2304
+#, php-format
+#@ cbxwoocouponreferral
+msgid "Total Earning (%s)"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2352
+#@ cbxwoocouponreferral
+msgid "(Fixed)"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2557
+#: cbxwoocouponreferral.php:2778
+#, php-format
+#@ cbxwoocouponreferral
+msgid "Monthly Target(%s)"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2558
+#: cbxwoocouponreferral.php:2779
+#, php-format
+#@ cbxwoocouponreferral
+msgid "Monthly Milestone Earned(%s)"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2559
+#: cbxwoocouponreferral.php:2780
+#, php-format
+#@ cbxwoocouponreferral
+msgid "Earned(%s)"
+msgstr ""
+
+#: cbxwoocouponreferral.php:2606
+#: cbxwoocouponreferral.php:2843
+#, php-format
+#@ cbxwoocouponreferral
+msgid "Total User Earing for this Month(%s) = "
+msgstr ""
+
+#: includes/class.wcracoupontab.php:42
+#@ cbxwoocouponreferral
+msgid "WCRA Referral"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:99
+#@ cbxwoocouponreferral
+msgctxt "placeholder"
+msgid "User Commission"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:105
+#@ cbxwoocouponreferral
+msgid "Commission Type"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:282
+#@ cbxwoocouponreferral
+msgid "Milestone Achieved"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:283
+#@ cbxwoocouponreferral
+msgid "User %"
+msgstr ""
+
+#: includes/class.wcracoupontab.php:284
+#@ cbxwoocouponreferral
+msgid "% Type"
+msgstr ""
+
+#: widgets/wcratop/views/admin.php:32
+#@ cbxwoocouponreferral
+msgid "Order"
+msgstr ""
+
+#: widgets/wcratop/wcratop-widget.php:106
+#: widgets/wcratop/wcratop-widget.php:185
+#@ cbxwoocouponreferral
+msgid "Top Affiliator"
+msgstr ""
+

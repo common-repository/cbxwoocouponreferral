@@ -1,0 +1,87 @@
+#cborderbycouponforwoocommerce_dropdown_order_coupon {
+	margin: 8px 0px;
+}
+
+.cborderbycouponforwoocommerce_coupon_filter {
+
+	margin: 8px 0px !important;
+	background-position: 20px 14px !important;
+	background-repeat: no-repeat !important;
+	background-size: 24px 24px !important;
+
+}
+
+.cborderbycoupon_active {
+
+	margin: 8px 0px !important;
+	background-position: 20px 14px !important;
+	background-repeat: no-repeat !important;
+	background-size: 24px 24px !important;
+	background-image: url(busy.gif) !important;
+
+}
+
+/*
+.cbcouponreferperyear_years{
+    margin: 8px 4px!important;
+    background-position: 8px 0px!important;
+    background-repeat: no-repeat!important;
+    background-size: 12px 12px!important;
+}
+.cbcouponreferperyear_years_active{
+    margin: 8px 0px!important;
+    background-position: 8px 8px!important;
+    background-repeat: no-repeat!important;
+    background-size: 12px 12px!important;
+    background-image: url(busy.gif)  !important;
+}
+*/
+.chosen-container input {
+	height: 30px !important;;
+}
+
+.cbcouponrefer_export {
+	margin-top: 20px;
+}
+
+.cbcouponrefer_ajax_icon img {
+	width: 24px;
+	height: 24px;
+}
+
+.cbx-next {
+	margin-left: 5px !important;
+}
+
+#cbcouponreferperyear_labels ul li {
+	list-style: none;
+}
+
+.cbcouponrefer_ajax_icon {
+	width: 16px;
+	height: 16px;
+}
+
+.wcra_center {
+	text-align: center;
+}
+
+.wcra_addon {
+	width: 40%;
+	float: left;
+	margin: 5%;
+}
+
+.wcra_addon a img {
+	width: 100%;
+}
+
+.cbxclearfix {
+	clear: both;
+}
+
+@media only screen and (max-width: 768px) {
+	.wcra_addon {
+		width: 100%;
+	}
+}

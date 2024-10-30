@@ -1,0 +1,10 @@
+#woocommerce-coupon-data ul.wc-tabs li.cbx_coupon_refer_settings_options a:before,
+#woocommerce-product-data ul.wc-tabs li.cbx_coupon_refer_settings_options a:before,
+.woocommerce ul.wc-tabs li.cbx_coupon_refer_settings_options a:before {
+	/*content: url('../icons/menu-icon.png');
+	width: 16px; height: 16px;
+	display: inline-block;
+	*/
+	content: "\f338";
+
+}
